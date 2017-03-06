@@ -11,7 +11,7 @@ Welcome to the array reversal program!
 
 You will be asked to enter your data shortly but please note that
 if you would like to do right-reversals, you must input a negative
-value. A positive value will perform a left- reversal.
+value. A positive value will perform a left-reversal.
 
 Enjoy!
 
